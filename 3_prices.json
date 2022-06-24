@@ -1,0 +1,778 @@
+{
+    "success": true,
+    "messages": [],
+    "body": {
+        "availablePersonalPromos": [],
+        "promoConfiguratorConfig": {},
+        "materialPrices": [
+            {
+                "productId": "30061566",
+                "price": {
+                    "productId": "30061566",
+                    "basePrice": 29399,
+                    "salePrice": 21999,
+                    "basePromoPrice": 21999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204660",
+                            "promoName": "Скидка по акции",
+                            "discount": 7400
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061566",
+                    "total": 660,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 660
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059688",
+                "price": {
+                    "productId": "30059688",
+                    "basePrice": 13999,
+                    "salePrice": 12999,
+                    "basePromoPrice": 12999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000201924",
+                            "promoName": "Скидка по акции",
+                            "discount": 1000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059688",
+                    "total": 390,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 390
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061358",
+                "price": {
+                    "productId": "30061358",
+                    "basePrice": 32999,
+                    "salePrice": 26999,
+                    "basePromoPrice": 26999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 6000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061358",
+                    "total": 810,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 810
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061356",
+                "price": {
+                    "productId": "30061356",
+                    "basePrice": 23999,
+                    "salePrice": 20999,
+                    "basePromoPrice": 20999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 3000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061356",
+                    "total": 630,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 630
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057402",
+                "price": {
+                    "productId": "30057402",
+                    "basePrice": 16999,
+                    "salePrice": 14999,
+                    "basePromoPrice": 14999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 2000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057402",
+                    "total": 450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 450
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061352",
+                "price": {
+                    "productId": "30061352",
+                    "basePrice": 27999,
+                    "salePrice": 22999,
+                    "basePromoPrice": 22999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 5000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061352",
+                    "total": 690,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 690
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057404",
+                "price": {
+                    "productId": "30057404",
+                    "basePrice": 15999,
+                    "salePrice": 14999,
+                    "basePromoPrice": 14999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 1000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057404",
+                    "total": 450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 450
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061061",
+                "price": {
+                    "productId": "30061061",
+                    "basePrice": 16499,
+                    "salePrice": 14999,
+                    "basePromoPrice": 14999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 1500
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061061",
+                    "total": 450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 450
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057407",
+                "price": {
+                    "productId": "30057407",
+                    "basePrice": 14499,
+                    "salePrice": 12999,
+                    "basePromoPrice": 12999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 1500
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057407",
+                    "total": 390,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 390
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30046393",
+                "price": {
+                    "productId": "30046393",
+                    "basePrice": 6999,
+                    "salePrice": 4900,
+                    "basePromoPrice": 4900,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "2000012176",
+                            "promoName": "Скидка по акции",
+                            "discount": 2099
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30046393",
+                    "total": 147,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 147
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057406",
+                "price": {
+                    "productId": "30057406",
+                    "basePrice": 14499,
+                    "salePrice": 12999,
+                    "basePromoPrice": 12999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204542",
+                            "promoName": "Скидка по акции",
+                            "discount": 1500
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057406",
+                    "total": 390,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 390
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061361",
+                "price": {
+                    "productId": "30061361",
+                    "basePrice": 28999,
+                    "salePrice": 24999,
+                    "basePromoPrice": 24999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 4000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061361",
+                    "total": 750,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 750
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061567",
+                "price": {
+                    "productId": "30061567",
+                    "basePrice": 31299,
+                    "salePrice": 23999,
+                    "basePromoPrice": 23999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204660",
+                            "promoName": "Скидка по акции",
+                            "discount": 7300
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061567",
+                    "total": 720,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 720
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061355",
+                "price": {
+                    "productId": "30061355",
+                    "basePrice": 23999,
+                    "salePrice": 20999,
+                    "basePromoPrice": 20999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 3000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061355",
+                    "total": 630,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 630
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30048152",
+                "price": {
+                    "productId": "30048152",
+                    "basePrice": 23199,
+                    "salePrice": 16240,
+                    "basePromoPrice": 16240,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "2000012176",
+                            "promoName": "Скидка по акции",
+                            "discount": 6959
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30048152",
+                    "total": 487,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 487
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061353",
+                "price": {
+                    "productId": "30061353",
+                    "basePrice": 27999,
+                    "salePrice": 22999,
+                    "basePromoPrice": 22999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 5000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061353",
+                    "total": 690,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 690
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30061569",
+                "price": {
+                    "productId": "30061569",
+                    "basePrice": 32999,
+                    "salePrice": 30999,
+                    "basePromoPrice": 30999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204624",
+                            "promoName": "Скидка по акции",
+                            "discount": 2000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30061569",
+                    "total": 930,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 930
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057403",
+                "price": {
+                    "productId": "30057403",
+                    "basePrice": 16999,
+                    "salePrice": 14999,
+                    "basePromoPrice": 14999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 2000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057403",
+                    "total": 450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 450
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30060625",
+                "price": {
+                    "productId": "30060625",
+                    "basePrice": 19499,
+                    "salePrice": 14999,
+                    "basePromoPrice": 14999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204725",
+                            "promoName": "Скидка по акции",
+                            "discount": 4500
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30060625",
+                    "total": 450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 450
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059343",
+                "price": {
+                    "productId": "30059343",
+                    "basePrice": 17999,
+                    "salePrice": 16999,
+                    "basePromoPrice": 16999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204624",
+                            "promoName": "Скидка по акции",
+                            "discount": 1000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059343",
+                    "total": 510,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 510
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30028499",
+                "price": {
+                    "productId": "30028499",
+                    "basePrice": 29990,
+                    "salePrice": 23990,
+                    "basePromoPrice": 23990,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "2000012452",
+                            "promoName": "Скидка по акции",
+                            "discount": 6000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30028499",
+                    "total": 720,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 720
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30042085",
+                "price": {
+                    "productId": "30042085",
+                    "basePrice": 5999,
+                    "salePrice": 4200,
+                    "basePromoPrice": 4200,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "2000012176",
+                            "promoName": "Скидка по акции",
+                            "discount": 1799
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30042085",
+                    "total": 126,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 126
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30039065",
+                "price": {
+                    "productId": "30039065",
+                    "basePrice": 17199,
+                    "salePrice": 12040,
+                    "basePromoPrice": 12040,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "2000012176",
+                            "promoName": "Скидка по акции",
+                            "discount": 5159
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30039065",
+                    "total": 361,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 361
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30057401",
+                "price": {
+                    "productId": "30057401",
+                    "basePrice": 19499,
+                    "salePrice": 16999,
+                    "basePromoPrice": 16999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000204565",
+                            "promoName": "Скидка по акции",
+                            "discount": 2500
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30057401",
+                    "total": 510,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 510
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
